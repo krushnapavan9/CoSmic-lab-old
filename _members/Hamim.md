@@ -2,7 +2,7 @@
 name: Hamim Zafar
 image: images/team/hamim.jpg
 description: Guide under
-# role: Professor
+role: pi
 links:
   home-page: https://hamimzafar.wixsite.com/home
   email: hamim@iitk.ac.in
