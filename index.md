@@ -2,10 +2,9 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Point to be noted
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Computational biology involves the development and application of data-analytical and theoretical methods, mathematical modelling and computational simulation techniques to the study of biological, ecological, behavioral, and social systems. The field is broadly defined and includes foundations in biology, applied mathematics, statistics, biochemistry, chemistry, biophysics, molecular biology, genetics, genomics, computer science, ecology, and evolution, but is most commonly thought of as the intersection of computer science, biology, and big data.
 <!-- {%
   include link.html
   type="github"
@@ -26,19 +25,19 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/banner.png" %}
 
 {% include section.html %}
 
 # Explore
 
 {% capture text %}
-research interests lie at the intersection of Computation and Biology. We develop Probabilistic Models and Statistical Inference Algorithms for solving computational problems in different fields of Biology including Tumor biology, Developmental biology, Single-cell biology and so on
+Research interests lie at the intersection of Computation and Biology. We develop Probabilistic Models and Statistical Inference Algorithms for solving computational problems in different fields of Biology including Tumor biology, Developmental biology, Single-cell biology and so on
 
 {%
   include link.html
   link="research"
-  text="See what we've published"
+  text="See what we've published/working on"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -47,14 +46,14 @@ research interests lie at the intersection of Computation and Biology. We develo
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.jpeg"
   link="research"
   title="Our Research"
   text=text
 %}
 
 {% capture text %}
-We build different tools that come as biproduct of our research. The tools like MARGRET, scDREAMER .... so on
+The different tools that come as biproduct of our research. These tools can be used directly out of the self. The tools like MARGRET, scDREAMER and so on
 
 {%
   include link.html
@@ -68,7 +67,7 @@ We build different tools that come as biproduct of our research. The tools like 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/products.jpg"
   link="resources"
   title="Our Resources"
   flip=true
@@ -76,8 +75,7 @@ We build different tools that come as biproduct of our research. The tools like 
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+Our team include students from Ph.D, Btech, MTech, MS-Resaerch from IIT Kanpur and others. Our team members are experties in their own fields. 
 {%
   include link.html
   link="team"
@@ -90,11 +88,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpeg"
   link="team"
   title="Our Team"
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Research is something that everyone can do, and everyone ought to do. It is simply collecting information and thinking systematically about it.
+Raewyn Connell
+
