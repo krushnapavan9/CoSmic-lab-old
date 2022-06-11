@@ -7,25 +7,24 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Computer Science and Engineering Department IIT Kanpur. Rajeeve Motwani(RM) Building RM-513
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="hamim@iitk.ac.in"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="hamim@iitk.ac.in"
   style="button"
 %}
 {%
   include link.html
   type="phone"
   icon=""
-  text="(555) 867-5309"
+  text="(+91) 512-259-2054 (Office)"
   tooltip=""
-  link="+1-555-867-5309"
+  link="512-259-2054"
   style="button"
 %}
 {%
@@ -34,7 +33,7 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://www.google.com/maps/place/Rajeev+Motwani+Building,+CSE+Department,+IIT+Kanpur,+Fourth+Ave,+Kalyanpur,+Kanpur,+Uttar+Pradesh+208016/@26.514342,80.2326002,17z/data=!3m1!4b1!4m5!3m4!1s0x399c37022a95a96b:0xe7a39038059f64a8!8m2!3d26.514342!4d80.2347889?hl=en"
   style="button"
 %}
 {:.center}
@@ -43,9 +42,12 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+RM-513  
+Computer Science and Engineering
+Indian Institute of Technology Kanpur 
+Kalyanpur, Kanpur 208 016, U.P., INDIA
+
+
 {:.center}
 
 {% capture col1 %}

@@ -1,8 +1,8 @@
 ---
 name: Hamim Zafar
-image: images/tem/hamim.jpg
+image: images/team/hamim.jpg
 description: Guide under
-role: Professor
+# role: Professor
 links:
   home-page: https://hamimzafar.wixsite.com/home
   email: hamim@iitk.ac.in

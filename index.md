@@ -25,7 +25,7 @@ Computational biology involves the development and application of data-analytica
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/background.png" %}
+{% include banner.html image="images/banner.png" %}
 
 {% include section.html %}
 
