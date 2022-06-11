@@ -1,19 +1,19 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
+title: Cosmos Lab
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: /lab-website-template
+baseurl: /cosmos-lab
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
+  email: hamim@iitk.ac.in
+  google-scholar: Hamim Zafar
+  github: Zafar-Lab
+  twitter: Quasarzafar
   instagram: YourLabHandle
   youtube: YourLabChannel
 
