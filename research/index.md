@@ -7,10 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Research interests lie at the intersection of novel computational innovations and applications in biology and draw upon ideas from probabilistic graphical models, statistical inference, mathematical models, genomics, transcriptomics, evolution and cancer biology. His research is focused on the design of scalable computational techniques backed by probabilistic modeling and statistical inference methods for understanding the biology of cancer and furthering the knowledge about single-cell biology.
 
 {% include section.html %}
 

@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Point to be noted
+# Cosmos-Lab
 
 Computational biology involves the development and application of data-analytical and theoretical methods, mathematical modelling and computational simulation techniques to the study of biological, ecological, behavioral, and social systems. The field is broadly defined and includes foundations in biology, applied mathematics, statistics, biochemistry, chemistry, biophysics, molecular biology, genetics, genomics, computer science, ecology, and evolution, but is most commonly thought of as the intersection of computer science, biology, and big data.
 <!-- {%
@@ -25,7 +25,7 @@ Computational biology involves the development and application of data-analytica
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.png" %}
+{% include banner.html image="images/background.png" %}
 
 {% include section.html %}
 
@@ -48,7 +48,7 @@ Research interests lie at the intersection of Computation and Biology. We develo
   include feature.html
   image="images/research.jpeg"
   link="research"
-  title="Our Research"
+  title="Research"
   text=text
 %}
 
@@ -67,9 +67,9 @@ The different tools that come as biproduct of our research. These tools can be u
 
 {%
   include feature.html
-  image="images/products.jpg"
+  image="images/products.jpeg"
   link="resources"
-  title="Our Resources"
+  title="Tools"
   flip=true
   text=text
 %}
@@ -90,7 +90,7 @@ Our team include students from Ph.D, Btech, MTech, MS-Resaerch from IIT Kanpur a
   include feature.html
   image="images/team.jpeg"
   link="team"
-  title="Our Team"
+  title="Team"
   text=text
 %}
 
