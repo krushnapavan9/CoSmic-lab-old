@@ -1,1 +1,1 @@
-page url: https://krushnapavan9.github.io/cosmos-lab/
+page url:  https://krushnapavan9.github.io/CoSmis-lab/
