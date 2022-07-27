@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Cosmos-Lab
+# CoSmic-Lab
 
 Computational biology involves the development and application of data-analytical and theoretical methods, mathematical modelling and computational simulation techniques to the study of biological, ecological, behavioral, and social systems. The field is broadly defined and includes foundations in biology, applied mathematics, statistics, biochemistry, chemistry, biophysics, molecular biology, genetics, genomics, computer science, ecology, and evolution, but is most commonly thought of as the intersection of computer science, biology, and big data.
 <!-- {%
