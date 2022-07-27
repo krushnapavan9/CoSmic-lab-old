@@ -10,7 +10,7 @@ Computational biology involves the development and application of data-analytica
   type="github"
   icon=""
   text="See the template on GitHub"
-  link="greenelab/cosmos-lab"
+  link="greenelab/CoSmic-lab"
   style="button"
 %}
 {%
@@ -18,7 +18,7 @@ Computational biology involves the development and application of data-analytica
   type="docs"
   icon=""
   text="See the documentation"
-  link="https://github.com/greenelab/cosmos-lab/wiki"
+  link="https://github.com/greenelab/CoSmic-lab/wiki"
   style="button"
 %}
 {:.center} -->
